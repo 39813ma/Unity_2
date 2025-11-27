@@ -1,7 +1,7 @@
 # Unity_2
 
 
-Opdracht 1A: Array en List
+`Opdracht 1A: Array en List`
 
 omschrijving opdracht: Maak een script waarmee er willekeurige objecten uit een lijst gekozen en gepresenteerd worden in de console, op commando van het indrukken van een key op het toetsenbord (in mijn geval de space-key).
 
