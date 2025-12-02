@@ -11,7 +11,7 @@ public class RandomItem : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Return))PrintRandomItem();
+        if(Input.GetKeyDown(KeyCode.Space))PrintRandomItem();
         if(Input.GetKeyDown(KeyCode.Escape))PrintAllItems();
     }
 
